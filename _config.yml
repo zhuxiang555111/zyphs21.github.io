@@ -8,20 +8,12 @@ url: "http://zyphs21.github.io"
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "朱翔"
+  email: 774241920@qq.com
   bio: ""
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
-
-douban_username:  
-twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
-facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 朱羊羽
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +26,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Hangzhou
 
 # Defaults for posts
 defaults:
